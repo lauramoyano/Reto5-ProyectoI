@@ -1,8 +1,8 @@
 # Reto5-ProyectoI
-Participantes: Laura Moyano - 2023906, Sebastian Caicedo - 1841245
+Participantes:  Laura Moyano - 2023906, Sebastian Caicedo - 1841245  
 Primero se clona el repositorio desde la terminal en alguna carpeta
 ```
-git clone 
+git clone https://github.com/lauramoyano/Reto5-ProyectoI.git
 ```
 
 ## Correr el código
